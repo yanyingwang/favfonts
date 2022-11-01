@@ -3,9 +3,7 @@ Shift+Ctrl+u
 
 
 
-new custom defined characters:
-
-
+customized characters:
 * 之又    10FFFD  􏿽  pby
 * 走双    10FFFC  􏿼  drbb
 * 矢之又  10FFFB  􏿻 pgby
@@ -15,14 +13,14 @@ new custom defined characters:
 * 矢      10FFF7 􏿷 gf
 * 走      10FFF6  􏿶 dr
 * 辶矢    10FFF5  􏿵
+* 又乂    10FFF4   􏿴	byry 
+* 双乂     10FFF3  􏿳	bybr 
+* 矢乂     10FFF2  􏿲	gfry 
+* 宀双     10FFF1  􏿱	pabb 
+* 广双     10FFF0  􏿰	uxbb
+* 又口     10FFEF   
 
-* 又乂    10FFF4  􏿴
-* 双乂     10FFF3 􏿳
-* 矢乂     10FFF2 􏿲
-* 宀双     10FFF1 􏿱
-* 广双     10FFF0  􏿰
-
-offical defiend characters:
+officially defiend characters:
 * 361D   口又   㘝 jaby
 * 28471  之双   𨑱 pbby
 * 3066A  人双   𰙪 tbby
