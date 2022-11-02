@@ -28,6 +28,8 @@ Shift+Ctrl+u
 | 矢乂 |  10FFF2 | 􏿲 |	gfry  |
 | 宀双 |  10FFF1 | 􏿱 |	pabb  |
 | 广双 |  10FFF0 | 􏿰 |	uxbb |
-| 又口 |  10FFEF | 􏿯 | | byjf |
-
+| 又口 |  10FFEF | 􏿯 | byjf |
+| 又己 |  10FFEE | 􏿮 | bynn |
+| 礻勾 |  10FFED | 􏿭 | pyqm |
+| 礻类 |  10FFEC | 􏿬 | pyix |
 
