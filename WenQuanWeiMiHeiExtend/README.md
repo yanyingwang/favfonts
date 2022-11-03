@@ -23,13 +23,12 @@ Shift+Ctrl+u
 | 走   |  10FFF6 | 􏿶  | dr |
 | 辶矢又|  10FFF5 | 􏿵 | --- |
 | ---  | ------- | -- | --- |
-| 又乂 |  10FFF4 | 􏿴 |	byry  |
-| 双乂 |  10FFF3 | 􏿳 |	bybr  |
-| 矢乂 |  10FFF2 | 􏿲 |	gfry  |
-| 宀双 |  10FFF1 | 􏿱 |	pabb  |
+| 又乂 |  10FFF4 | 􏿴 |	byry |
+| 双乂 |  10FFF3 | 􏿳 |	bybr |
+| 矢乂 |  10FFF2 | 􏿲 |	gfry |
+| 宀双 |  10FFF1 | 􏿱 |	pabb |
 | 广双 |  10FFF0 | 􏿰 |	uxbb |
 | 又口 |  10FFEF | 􏿯 | byjf |
 | 又己 |  10FFEE | 􏿮 | bynn |
 | 礻勾 |  10FFED | 􏿭 | pyqm |
 | 礻类 |  10FFEC | 􏿬 | pyix |
-
