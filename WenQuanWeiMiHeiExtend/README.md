@@ -8,6 +8,7 @@ Shift+Ctrl+u
 |人双   | 3066A   | 𰙪 | tbby |
 |手又   | 2D80E   | 𭠎 | aby |
 |讠度   | 2C90F   | 𬤏 | yuvb |
+徝 rhvl
 
 
 # customized characters:
@@ -23,19 +24,24 @@ Shift+Ctrl+u
 | 走   |  10FFF6 | 􏿶  | dr |
 | 辶矢又|  10FFF5 | 􏿵 | --- |
 | ---  | ------- | -- | --- |
-| 又乂 |  10FFF4 | 􏿴 |	byry | shu
-| 又乂 一 | $10FFEA 􏿪 | byrf | shu
-|  一又乂 | $10FFE9 􏿩 | fbry | shu
-| 又又 |  10FFEB | 􏿫 | byby | su
-| 双乂 |  10FFF3 | 􏿳 |	bybr | shun
-| 矢乂 |  10FFF2 | 􏿲 |	gfry | shi
-| 矢乂一  | $10FFE8 􏿨 | gfrf | shi
-| 一矢乂  | $10FFE7 􏿧 | fgry | shi
+| 又㐅 |  10FFF4 | 􏿴 |	byry | shu
+| 双㐅 |  10FFF3 | 􏿳 |	bybr | shun
+| 矢㐅 |  10FFF2 | 􏿲 |	gfry | shi
 | 宀双 |  10FFF1 | 􏿱 |	pabb | wan
 | 广双 |  10FFF0 | 􏿰 |	uxbb | wen
 | 又口 |  10FFEF | 􏿯 | byjf | kou
 | 又己 |  10FFEE | 􏿮 | bynn | ji
 | 礻勾 |  10FFED | 􏿭 | pyqm | gou
 | 礻类 |  10FFEC | 􏿬 | pyix | lei
+| 又又 |  10FFEB | 􏿫 | byby | su
+| 又㐅 一 | 10FFEA 􏿪 | byrf | shu
+|  一又㐅 | 10FFE9 􏿩 | fbry | shu
+| 矢㐅一  | 10FFE8 􏿨 | gfrf | shi
+| 一矢㐅  | 10FFE7 􏿧 | fgry | shi
+末又 10FFE6 􏿦
+彳左 10FFE5 􏿥
+彳右 10FFE4 􏿤
+㐅丨左 10FFE3 􏿣
+㐅丨右 10FFE2 􏿢
 
-uhj
+
