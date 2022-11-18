@@ -38,10 +38,10 @@ Shift+Ctrl+u
 |  一又㐅 | 10FFE9 􏿩 | fbry | shu
 | 矢㐅一  | 10FFE8 􏿨 | gfrf | shi
 | 一矢㐅  | 10FFE7 􏿧 | fgry | shi
-末又 10FFE6 􏿦
-彳左 10FFE5 􏿥
-彳右 10FFE4 􏿤
-㐅丨左 10FFE3 􏿣
-㐅丨右 10FFE2 􏿢
+| 末又 | 10FFE6 􏿦 | fcby
+| 彳左 | 10FFE5 􏿥 | rhxd
+| 彳右 | 10FFE4 􏿤 | rhxj
+| 㐅丨左 | 10FFE3 􏿣 | rhxd
+| 㐅丨右 | 10FFE2 􏿢 | rhxd
 
 
