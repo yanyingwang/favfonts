@@ -9,6 +9,7 @@ Shift+Ctrl+u
 |手又   | 2D80E   | 𭠎 | aby |
 |讠度   | 2C90F   | 𬤏 | yuvb |
 徝 rhvl
+𡖻 qyvl 215BB
 
 
 # customized characters:
@@ -43,5 +44,11 @@ Shift+Ctrl+u
 | 彳右 | 10FFE4 􏿤 | rhxj
 | 㐅丨左 | 10FFE3 􏿣 | rhxd
 | 㐅丨右 | 10FFE2 􏿢 | rhxd
+| 佐八 |  10FFE1 | 􏿡 | txdr
+| 佑八 |  10FFE0 | 􏿠 | txjr
+| 佐䒑 |  10FFDF | 􏿟 | txdi
+| 佑䒑 |  10FFDE | 􏿞 | txji
+| 毌􏿴 |  10FFDD | 􏿝 | mnbr
+| 毌􏿫 |  10FFDC | 􏿜 | mnbb
 
 
