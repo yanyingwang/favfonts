@@ -12,6 +12,7 @@ Shift+Ctrl+u
 𡖻 qyvl 215BB
 
 
+
 # customized characters:
 | 部分 | UNICODE | 字 | 郑码 | 拼音 |
 | ---  | ------- | -- | --- | ----- |
@@ -50,5 +51,8 @@ Shift+Ctrl+u
 | 佑䒑 |  10FFDE | 􏿞 | txji
 | 毌􏿴 |  10FFDD | 􏿝 | mnbr
 | 毌􏿫 |  10FFDC | 􏿜 | mnbb
-
-
+| 亻丨又㐅 |  10FFDB | 􏿛 | thbr
+| 多笈     |  10FFDA | 􏿚 | gqqn
+| 多笈㐅   |  10FFD9 | 􏿙 | gqnr
+| 笈㐅     |  10FFD8 | 􏿘 | gnry
+| 攴㐅     |  10FFD7 | 􏿗 | habr
