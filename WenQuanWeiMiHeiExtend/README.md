@@ -56,21 +56,24 @@ Shift+Ctrl+u
 | 多笈㐅   |  10FFD9 | 􏿙 | gqnr
 | 笈㐅     |  10FFD8 | 􏿘 | gnry
 | 攴㐅     |  10FFD7 | 􏿗 | habr
-| 佐同 | 10FFD6 | 􏿖 | txdl
-| 佐八同 | 10FFD5 | 􏿕 | txrl
-| 㐅佐八同 | 10FFD4 | 􏿔 | rhrl
+| 佐同 | 10FFD6 | 􏿖 | txla
+| 佐八同 | 10FFD5 | 􏿕 | txla
+| 㐅佐八同 | 10FFD4 | 􏿔 | rhla
 | 佑同 | 10FFD3 | 􏿓 | txla
 | 亻左同 | 10FFD2 | 􏿒 | txla
 | 亻右同 | 10FFD1 | 􏿑 | txla
 | 亻㐅左 |  10FFD0 | 􏿐 | trxd
 | 亻㐅右 |  10FFCF | 􏿏 | trxj
-| 彳㐅左 |  10FFCE | 􏿎 | rhrd
-| 彳㐅右 |  10FFCD | 􏿍 | rhrj
+| 彳㐅左 |  10FFCE | 􏿎 | rhxd
+| 彳㐅右 |  10FFCD | 􏿍 | rhxj
 | 亻左同余 |   10FFCC | 􏿌 | txra
 | 彳左同余 | 10FFCB | 􏿋 | rhra
 | 亻笈     |  10FFCA | 􏿊 | tgng
 | 亻多笈   |  10FFC9 | 􏿉 | tgqn
-
+| 亻左分 |  10FFC8 | 􏿈 | txrn
+| 亻右分 |  10FFC7 | 􏿇 | txrn
+| 彳左分 |  10FFC6 | 􏿆 | rhrn
+| 彳右 分|  10FFC5 | 􏿅 | rhrn
 
 
 
