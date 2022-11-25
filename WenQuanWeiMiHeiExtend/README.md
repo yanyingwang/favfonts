@@ -4,13 +4,19 @@ Shift+Ctrl+u
 # officially defiend characters:
 | 部分  | UNICODE | 字 | 郑码 |
 |口又   | 361D    | 㘝 | jaby |
-|之双   | 28471   | 𨑱 | pbby |
-|人双   | 3066A   | 𰙪 | tbby |
-|手又   | 2D80E   | 𭠎 | aby |
+|辶双   | 28471   | 𨑱 | pbby |
+|亻双   | 3066A   | 𰙪 | tbby |
+|扌又   | 2D80E   | 𭠎 | aby |
 |讠度   | 2C90F   | 𬤏 | yuvb |
 徝 rhvl
-𡖻 qyvl 215BB
-
+𡖻 qyvl   215BB
+𠉗 tgm    20257
+𠍣 taks   20363
+𰂃  30083  亻寻
+挦  6326   abay
+𬩽  2CA7D  ban   寻阝
+𨚞  2869E  右阝
+𮞑  2E791   辶各 
 
 
 # customized characters:
@@ -74,7 +80,16 @@ Shift+Ctrl+u
 | 亻右分 |  10FFC7 | 􏿇 | txrn
 | 彳左分 |  10FFC6 | 􏿆 | rhrn
 | 彳右 分|  10FFC5 | 􏿅 | rhrn
-
+| 亻重㐅 | 10FFC4  | 􏿄 | trkd
+| 亻掺 | 10FFC3 􏿃 | tame
+| 入寻 | $10FFC2 |  􏿂 | raba
+| 日寻 | $10FFC1 | 􏿁 | kbay
+|亻理   | $10FFC0 | 􏿀  |
+| 亻寻阝 | $10FFBF | 􏾿 | tban 
+| 选㐅 |  $10FFBE | 􏾾 | rygp
+| 辶 查 | $10FFBD |  􏾽 | ckfp
+| 辶㐅 查 | $10FFBC | 􏾼 | rycp
+| 辶八 查 | $10FFBB | 􏾻 | rckp
 
 
 
