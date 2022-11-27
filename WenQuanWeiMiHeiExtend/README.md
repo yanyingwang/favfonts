@@ -16,7 +16,7 @@ Shift+Ctrl+u
 挦  6326   abay
 𬩽  2CA7D  ban   寻阝
 𨚞  2869E  右阝
-𮞑  2E791   辶各 
+𮞑  2E791 qyjp/qjp  辶各
 
 
 # customized characters:
@@ -84,12 +84,15 @@ Shift+Ctrl+u
 | 亻掺 | 10FFC3 􏿃 | tame
 | 入寻 | $10FFC2 |  􏿂 | raba
 | 日寻 | $10FFC1 | 􏿁 | kbay
-|亻理   | $10FFC0 | 􏿀  |
-| 亻寻阝 | $10FFBF | 􏾿 | tban 
+|亻理   | $10FFC0 | 􏿀  | tsdk
+| 亻寻阝 | $10FFBF | 􏾿 | tban
 | 选㐅 |  $10FFBE | 􏾾 | rygp
 | 辶 查 | $10FFBD |  􏾽 | ckfp
 | 辶㐅 查 | $10FFBC | 􏾼 | rycp
 | 辶八 查 | $10FFBB | 􏾻 | rckp
-
+|左阝| $10FFBA | 􏾺 | xdn/xadn
+|㐅左阝| $10FFB9 | 􏾹 | rydn |
+|㐅右阝| $10FFB8 | 􏾸 | ryjn |
+|亻紊 | $10FFB7 | 􏾷 |tymk |
 
 
