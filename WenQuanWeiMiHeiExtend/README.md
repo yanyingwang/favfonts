@@ -17,7 +17,7 @@ Shift+Ctrl+u
 𬩽  2CA7D  ban   寻阝
 𨚞  2869E  右阝
 𮞑  2E791 qyjp/qjp  辶各
-
+䢼 U+48BC 共阝
 
 # customized characters:
 | 部分 | UNICODE | 字 | 郑码 | 拼音 |
@@ -94,5 +94,8 @@ Shift+Ctrl+u
 |㐅左阝| $10FFB9 | 􏾹 | rydn |
 |㐅右阝| $10FFB8 | 􏾸 | ryjn |
 |亻紊 | $10FFB7 | 􏾷 |tymk |
+|㐅共阝| $10FFB6 | 􏾶 | ryrn  |
+| 值八 | $10FFB5 |
+| 值 | $10FFB4 | 􏾴 | tgls
 
 
