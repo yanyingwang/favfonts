@@ -18,6 +18,9 @@ Shift+Ctrl+u
 𨚞  2869E  右阝
 𮞑  2E791 qyjp/qjp  辶各
 䢼 U+48BC 共阝
+𪭨 U+2AB68 扌矢
+𥎪 U+253AA 矢攵
+	
 
 # customized characters:
 | 部分 | UNICODE | 字 | 郑码 | 拼音 |
@@ -97,5 +100,14 @@ Shift+Ctrl+u
 |㐅共阝| $10FFB6 | 􏾶 | ryrn  |
 | 值八 | $10FFB5 |
 | 值 | $10FFB4 | 􏾴 | tgls
-
+| 辶删 | $10FFB3 | 􏾳 | wwkp
+| 辶消 | $10FFB2 | 􏾲 | okep
+| 易同 | $10FFB1 | 􏾱 | kqrl
+| 易𠂉同 | $10FFB0 | 􏾰 | kqtl
+| 米易𠂉同 | $10FFAF | 􏾯 | ictl
+| 彡同 | $10FFAE | 􏾮 | eala
+| 亻丶丶丶同 | $10FFAD | 􏾭 | tola
+| 同彡 | $10FFAC | 􏾬 | laea
+| 亻小同 | $10FFAB | 􏾫 | tkla
+| 亻米同 | $10FFAA | 􏾪 | tila
 
