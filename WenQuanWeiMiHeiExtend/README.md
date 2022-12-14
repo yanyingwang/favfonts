@@ -18,9 +18,11 @@ Shift+Ctrl+u
 𨚞  2869E  右阝
 𮞑  2E791 qyjp/qjp  辶各
 䢼 U+48BC 共阝
-𪭨 U+2AB68 扌矢
+𪭨 U+2AB68 扌矢 agf
 𥎪 U+253AA 矢攵
-	
+𢪛 U+22A9B 扌攵 agr
+䒨 U+44A8 vgf
+
 
 # customized characters:
 | 部分 | UNICODE | 字 | 郑码 | 拼音 |
@@ -110,4 +112,11 @@ Shift+Ctrl+u
 | 同彡 | $10FFAC | 􏾬 | laea
 | 亻小同 | $10FFAB | 􏾫 | tkla
 | 亻米同 | $10FFAA | 􏾪 | tila
+| 扌丨攵 | $10FFA9 | 􏾩 | ahgr
+| 冖矢 | $10FFA8 | 􏾨 | pgf
+| 艹 弓矢 | $10FFA7 | 􏾧 | vngf
+| 里矢 | $10FFA6 | 􏾦 | kdgf
+| 里䒨 | $10FFA5 | 􏾥 | kdvg
+| 里艹弓矢 | $10FFA4 | 􏾤 | kdvg
+| 扌䒨 |  $10FFA3 | 􏾣 | avgf
 
