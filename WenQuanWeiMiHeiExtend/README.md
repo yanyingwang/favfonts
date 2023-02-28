@@ -125,6 +125,6 @@ Shift+Ctrl+u
 | 艹 矢攵 |  $10FDFF | 􏷿 | vggr
 | 艹 弓矢攵 |  $10FDFE | 􏷾 | vngg
 | 又末 |  $10FDFD | 􏷽 | byfc
-
+| 扌𢎨 |  $10FDFC | 􏷼 | anm
 
 
