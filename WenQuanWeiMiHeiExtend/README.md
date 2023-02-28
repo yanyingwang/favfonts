@@ -119,4 +119,12 @@ Shift+Ctrl+u
 | 里䒨 | $10FFA5 | 􏾥 | kdvg
 | 里艹弓矢 | $10FFA4 | 􏾤 | kdvg
 | 扌䒨 |  $10FFA3 | 􏾣 | avgf
+| 矢里 |  $10FFA2 | 􏾢 | gfkd
+| 䒨里 |  $10FFA1 | 􏾡 | vgkd
+| 艹 弓矢里 |  $10FFA0 | 􏾠 | vnkd vngk
+| 艹 矢攵 |  $10FDFF | 􏷿 | vggr
+| 艹 弓矢攵 |  $10FDFE | 􏷾 | vngg
+| 又末 |  $10FDFD | 􏷽 | byfc
+
+
 
