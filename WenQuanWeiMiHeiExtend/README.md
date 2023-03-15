@@ -22,6 +22,7 @@ Shift+Ctrl+u
 𥎪 U+253AA 矢攵
 𢪛 U+22A9B 扌攵 agr
 䒨 U+44A8 vgf
+| 亻间 |  $3008B | 𰂋 | tulk
 
 
 # customized characters:
@@ -126,5 +127,5 @@ Shift+Ctrl+u
 | 艹 弓矢攵 |  $10FDFE | 􏷾 | vngg
 | 又末 |  $10FDFD | 􏷽 | byfc
 | 扌𢎨 |  $10FDFC | 􏷼 | anm
-
+| 亻理 |  $10FDFB | 􏷻 | tskd
 
