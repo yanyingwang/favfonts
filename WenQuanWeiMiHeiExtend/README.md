@@ -33,6 +33,11 @@ Shift+Ctrl+u
 𬩵 扩展E U+2CA75  jhn jhnf 䦿钟
 佫 tqyj
 酪 caqj
+㦴 zgqj
+垎 dqj
+
+
+爱愛
 
 
 # customized characters:
@@ -140,7 +145,7 @@ Shift+Ctrl+u
 | 扌𢎨 |  $10FDFC | 􏷼 | anm
 | 寻弔 |  $10FDFB | 􏷻 | banm
 | 亻寻弔 |  $10FDFA | 􏷺 | tban
-| 亻查 |  $10FDF9 | 􏷹 | tckf  馇 㜁 碴  皶 猹 
+| 亻查 |  $10FDF9 | 􏷹 | tckf    馇 㜁 碴  皶 猹  
 | 亻㐅查 |  $10FDF8 | 􏷸 | trkf
 | 㐅查 |  $10FDF7 | 􏷷 | rykf
 | 查刂 |  $10FDF6 | 􏷶 | ckfk
@@ -148,11 +153,12 @@ Shift+Ctrl+u
 | 右刂 |  $10FDF4 | 􏷴 | xaka xjka
 | 共刂 |  $10FDF3 | 􏷳 | vfka vrka
 | 寻刂 |  $10FDF2 | 􏷲  | bak bdak
-| 且各  |  $10FDF1 |  􏷱  | laqj 略
-| 或各  |  $10FDF0 | 􏷰 | zgqj  㦴 
-| 亻查各  |  $10FDEF |  | tcqj
-|    |  $10FDEE |  |  
-|    |  $10FDED |  |  
+| 且各  |  $10FDF1 |  􏷱  | laqj    略 䪶 鴡 雎 刞 䢸  
+| 或各  |  $10FDF0 | 􏷰 | zgqj    
+| 亻查各  |  $10FDEF | 􏷯  | tcqj
+| 各且   |  $10FDEE | 􏷮 |         鵅  组 袓 姐 耝 殂 
+| 各或   |  $10FDED | 􏷭 | 
+| 各且   |  $10FDEC | 􏷬 |        洜   罝 㚗 
 
 
 累 === 复	
