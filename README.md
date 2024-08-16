@@ -9,6 +9,12 @@ my favorite fonts collection:
 4. Monaco Bold, original github repo: https://github.com/vjpr/monaco-bold
 5. ZhongHuaSong(中华书局宋体). from: https://06wb.github.io/Fonts/index.html
 6. HanMing(花园明朝). 
+7. Maple: https://github.com/subframe7536/maple-font
+8. SeriousShanns: https://kabeech.github.io/serious-shanns/ 
+9. 0xProto: https://github.com/0xType/0xProto
+10. ComicMono: https://dtinth.github.io/comic-mono-font/
+
+https://www.nerdfonts.com/font-downloads 
 
 
 
